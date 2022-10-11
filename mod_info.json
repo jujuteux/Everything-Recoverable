@@ -1,0 +1,10 @@
+{
+	"id":"SalvageEverything",
+	"name":"Salvage Everything",
+	"author":"jujuteux",
+	"version":"1.0.0",
+	"description":"Makes every single ship salvageable, including boss ships. See settings.json",
+	"gameVersion":"0.95.1a-RC5",
+	"jars":["jars/SalvageEverything.jar"],
+	"modPlugin":"data.SalvageEverythingLoading"
+}

@@ -1,0 +1,42 @@
+{
+	###SHIPS###
+    # makes ship always show in salvage screen
+    "overrideChance":false,
+    # makes it only apply to unique/hidden ships or ones that shouldn't be boarded
+    "overrideChanceUnboardableOnly":true,
+
+    # ↑only for affected ships↑
+    # at 0.0 evenly distributed between normal and special recovery
+    # at 0.5 2/3 in normal recovery, 1/3 in special recovery
+    # at 1.0 affected ships are always normally recoverable without story points
+    # ↑ affected by salvaging skill
+    # /!\ max recoverable ships in a single battle is 24 per recovery screen, 0.0 allows 48 while 1.0 only allows 24! /!\
+    "onlyCleanRecovery":0.0;
+
+    # normally hidden ships will be available in codex and other similar places
+    "unhideShips":true,
+
+    # will show stations and station parts
+    # SCVE ain't a fan of showing stations, don't be surprised they look FUBAR'd, it's not a bug.
+    # turned off when loading a game, because it'll break stations
+    "includeStations":true,
+    "includeStationBits":false,
+
+	###WEAPONS###
+    #Unique weapons, non-SYSTEM builtins...
+    "dropNoDropWeapons":true,
+    #override drop chances and salvage skill
+    "dropAllWeaponsOnShips":false,
+    ### WARNING: IF YOU GET ANY CRASH AFTER DOING ANY CHANGE TO THESE BUILTINS, IT'S ON YOU ###
+    #allows builtin weapons to be removed
+    "unBuildinWeapons":false,
+
+	###WINGS###
+    "dropNoDropWings":true,
+    # 1.0: all wings get dropped
+    "overrideWingDropChance":0.15,
+    ### WARNING: IF YOU GET ANY CRASH AFTER DOING ANY CHANGE TO THESE BUILTINS, IT'S ON YOU ###
+    #allows builtin wings to be removed
+    "unBuildinWings":false,
+
+}
