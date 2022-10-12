@@ -19,6 +19,8 @@
     # will make stations recoverable post combat
     "includeStations":true,
     "includeStationBits":false,
+    # when "includeStations" is turned on, stations can get DMods, which they shouldn't have in vanilla
+    "removeStationDMods":true,
 
 	###WEAPONS###
     #Unique weapons, non-SYSTEM builtins...

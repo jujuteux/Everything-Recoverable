@@ -2,8 +2,8 @@
 	"id":"SalvageEverything",
 	"name":"Salvage Everything",
 	"author":"jujuteux",
-	"version":"1.0.0",
-	"description":"Makes every single ship salvageable, including boss ships. See settings.json",
+	"version":"1.1.1",
+	"description":"Makes every ship, weapon and wing salvageable, including boss ships and stations. See config.json",
 	"gameVersion":"0.95.1a-RC5",
 	"jars":["jars/SalvageEverything.jar"],
 	"modPlugin":"data.SalvageEverythingLoading"

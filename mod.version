@@ -1,11 +1,11 @@
 {
-    #"masterVersionFile":"",
+    "masterVersionFile":"https://github.com/jujuteux/Everything-Recoverable",
     "modName":"SalvageEverything",
-    #"modThreadId":,
+    "modThreadId":"https://fractalsoftworks.com/forum/index.php?topic=25476.0",
     "modVersion":
     {
         "major":1,
-        "minor":0,
-        "patch":"0"
+        "minor":1,
+        "patch":"1"
     },
 }
