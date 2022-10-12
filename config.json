@@ -16,9 +16,7 @@
     # normally hidden ships will be available in codex and other similar places
     "unhideShips":true,
 
-    # will show stations and station parts
-    # SCVE ain't a fan of showing stations, don't be surprised they look FUBAR'd, it's not a bug.
-    # turned off when loading a game, because it'll break stations
+    # will make stations recoverable post combat
     "includeStations":true,
     "includeStationBits":false,
 
