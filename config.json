@@ -1,11 +1,10 @@
 {
 	###SHIPS###
     # makes ship always show in salvage screen
-    "overrideChance":false,
+    "overrideChance":true,
     # makes it only apply to unique/hidden ships or ones that shouldn't be boarded
     "overrideChanceUnboardableOnly":true,
 
-    # ↑only for affected ships↑
     # at 0.0 evenly distributed between normal and special recovery
     # at 0.5 2/3 in normal recovery, 1/3 in special recovery
     # at 1.0 affected ships are always normally recoverable without story points

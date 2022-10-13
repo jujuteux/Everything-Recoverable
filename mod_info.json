@@ -2,7 +2,7 @@
 	"id":"SalvageEverything",
 	"name":"Salvage Everything",
 	"author":"jujuteux",
-	"version":"1.1.1",
+	"version":"1.1.2",
 	"description":"Makes every ship, weapon and wing salvageable, including boss ships and stations. See config.json",
 	"gameVersion":"0.95.1a-RC5",
 	"jars":["jars/SalvageEverything.jar"],
